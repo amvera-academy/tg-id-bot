@@ -1,3 +1,6 @@
+
+<img width="680" height="974" alt="9" src="https://github.com/user-attachments/assets/0424fc78-79e1-4452-acf2-b88413592eb1" />
+
 # Бот для определения ID пользователя/чата/канала/бота
 
 ## Описание
