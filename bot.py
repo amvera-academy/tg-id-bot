@@ -21,7 +21,7 @@ def kb_private():
         keyboard=[
             [
                 KeyboardButton(
-                    text="👤 Выбрать пользователя",
+                    text="👤 Выбрать пользователя или бота",
                     request_users=KeyboardButtonRequestUsers(
                         request_id=1,
                         max_quantity=1,
